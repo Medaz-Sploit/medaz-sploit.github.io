@@ -1,8 +1,29 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: "About Me"
+date: 2026-05-14 00:00:00 +0000
+categories: []
+tags: []
+author: Medaz-Sploit
+permalink: /about/
+comments: false
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I'm **Mohamed Azoukni** — a cybersecurity researcher and penetration tester with a focus on offensive security, vulnerability research, Linux, networking, and infrastructure security.
+
+I spend most of my time learning, building labs, and practicing on platforms like **Hack The Box**, digging into how systems work and — more importantly — how they fail.
+
+## Interests
+
+- 🔴 Penetration Testing
+- 🌐 Web Security
+- 🐧 Linux & Networking
+- 🔍 Vulnerability Research
+- ⚔️ Offensive Security
+
+## Currently
+
+Focused on sharpening my skills, building security projects, and going deeper into advanced cybersecurity topics.
+
+---
+
+> *"The quieter you become, the more you can hear."* — Ram Dass
